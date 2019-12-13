@@ -1,0 +1,1 @@
+reajuste = lambda salario, taxareajuste : salario += taxareajuste
